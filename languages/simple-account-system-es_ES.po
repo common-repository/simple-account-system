@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Simple Account System\n"
+"POT-Creation-Date: 2015-12-30 18:55+0100\n"
+"PO-Revision-Date: 2015-12-30 19:18+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: simple-account-system.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/settings.php:5
+msgid "Sorry, your nonce did not verify."
+msgstr "Lo sentimos, tu post  no ha sido verificado."
+
+#: admin/settings.php:10
+msgid "Updated!"
+msgstr "¡Actualizado!"
+
+#: admin/settings.php:22
+msgid "Help S.A.S. login"
+msgstr "Ayuda S.A.S."
+
+#: admin/settings.php:34
+msgid "Include reCaptcha?"
+msgstr "¿Incluye el reCaptcha?"
+
+#: admin/settings.php:36
+msgid "If your theme already includes reCaptcha set this option to NO."
+msgstr "Si tu tema ya incluye reCaptcha esta opción no."
+
+#: admin/settings.php:46
+msgid "No"
+msgstr "No"
+
+#: admin/settings.php:48
+msgid "Yes"
+msgstr "Si"
+
+#: admin/settings.php:57
+msgid "Where you want to place Sign In - Sign Out links"
+msgstr "(Menú) Donde quieres poner los enlaces Login/Logout"
+
+#: admin/settings.php:74
+msgid "reCaptcha Site Key"
+msgstr "Clave del sitio reCAPTCHA"
+
+#: admin/settings.php:80
+msgid "reCaptcha Secret Key"
+msgstr "Clave secreta reCAPTCHA"
+
+#: admin/settings.php:88
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: simple-account-system.php:116 simple-account-system.php:1036
+#: simple-account-system.php:1176 templates/login_form.php:4
+#: templates/login_form.php:50 templates/login_form.php:73
+msgid "Sign In"
+msgstr "Ingresar"
+
+#: simple-account-system.php:120 simple-account-system.php:1180
+#: templates/password_lost_form.php:3
+msgid "Forgot Your Password?"
+msgstr "¿Has olvidado tu contraseña?"
+
+#: simple-account-system.php:124 simple-account-system.php:1184
+#: templates/password_reset_form.php:3
+msgid "Pick a New Password"
+msgstr "Elija una contraseña nueva"
+
+#: simple-account-system.php:128 simple-account-system.php:1073
+#: simple-account-system.php:1188
+msgid "Sign Up"
+msgstr "Regístrate"
+
+#: simple-account-system.php:132 simple-account-system.php:1067
+#: simple-account-system.php:1192
+msgid "Your Account"
+msgstr "Tu cuenta"
+
+#: simple-account-system.php:166 templates/register_form.php:32
+#: templates/user_profile_form.php:40
+msgid "Phone"
+msgstr "Teléfono"
+
+#: simple-account-system.php:167 templates/register_form.php:37
+#: templates/user_profile_form.php:45
+msgid "Address"
+msgstr "Dirección"
+
+#: simple-account-system.php:168 templates/register_form.php:42
+#: templates/user_profile_form.php:49
+msgid "Country"
+msgstr "País"
+
+#: simple-account-system.php:169 templates/register_form.php:47
+#: templates/user_profile_form.php:53
+msgid "City"
+msgstr "Ciudad"
+
+#: simple-account-system.php:170 templates/register_form.php:52
+#: templates/user_profile_form.php:58
+msgid "Zip code"
+msgstr "Código postal"
+
+#: simple-account-system.php:365 simple-account-system.php:418
+#: simple-account-system.php:454 simple-account-system.php:484
+msgid "You are already signed in."
+msgstr "Ahora ha iniciado sesión."
+
+#: simple-account-system.php:420 simple-account-system.php:973
+msgid "Registering new users is currently not allowed."
+msgstr "Actualmente no se permite el registro de usuarios."
+
+#: simple-account-system.php:503
+msgid "Invalid password reset link."
+msgstr "Token de restablecimiento de contraseña no válido."
+
+#: simple-account-system.php:825
+msgid "Hello!"
+msgstr "¡Hola!"
+
+#: simple-account-system.php:826
+#, php-format
+msgid ""
+"You asked us to reset your password for your account using the email address "
+"%s."
+msgstr ""
+"Usted nos pidió restablecer la contraseña para su cuenta utilizando la "
+"dirección de correo %s."
+
+#: simple-account-system.php:827
+msgid ""
+"If this was a mistake, or you didn't ask for a password reset, just ignore "
+"this email and nothing will happen."
+msgstr ""
+"Si esto fue un error, o usted no ha pedido un restablecimiento de "
+"contraseña, simplemente ignore este email y no pasa nada."
+
+#: simple-account-system.php:828
+msgid "To reset your password, visit the following address:"
+msgstr "Para restablecer su contraseña, visite la siguiente dirección:"
+
+#: simple-account-system.php:830
+msgid "Thanks!"
+msgstr "¡Gracias!"
+
+#: simple-account-system.php:946
+msgid "You do have an email address, right?"
+msgstr "¿Tienes una dirección de correo electrónico correcta?"
+
+#: simple-account-system.php:949
+msgid "You need to enter a password to login."
+msgstr "Es necesario introducir una contraseña para iniciar sesión."
+
+#: simple-account-system.php:953
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+"No tenemos ningún usuario con ese correo electrónico. ¿Tal vez usted ha "
+"utilizado uno diferente al registrarse?"
+
+#: simple-account-system.php:959
+#, php-format
+msgid ""
+"The password you entered wasn't quite right. <a href='%s'>Did you forget "
+"your password</a>?"
+msgstr ""
+"La contraseña no estaba muy bien. <a href='%s'>¿Olvidó su contraseña</a>?"
+
+#: simple-account-system.php:967
+msgid "The email address you entered is not valid."
+msgstr "La dirección de correo electrónico que ingresaste no es válida."
+
+#: simple-account-system.php:970
+msgid "An account exists with this email address."
+msgstr "Existe una cuenta con esta dirección de correo electrónico."
+
+#: simple-account-system.php:976
+msgid "The Google reCAPTCHA check failed. Are you a robot?"
+msgstr "La comprobación de reCAPTCHA de Google falló. ¿Es un robot?"
+
+#: simple-account-system.php:981
+msgid "You need to enter your email address to continue."
+msgstr "Deberá introducir su dirección de correo electrónico para continuar."
+
+#: simple-account-system.php:985
+msgid "There are no users registered with this email address."
+msgstr ""
+"No hay ningún usuario registrado con esta dirección de correo electrónico."
+
+#: simple-account-system.php:991
+msgid "The password reset link you used is not valid anymore."
+msgstr "El enlace de restablecimiento de contraseña usaste ya no es válido."
+
+#: simple-account-system.php:994
+msgid "The two passwords you entered don't match."
+msgstr "Las dos contraseñas que ha introducido no coinciden."
+
+#: simple-account-system.php:997 simple-account-system.php:1000
+msgid "Sorry, we don't accept empty passwords."
+msgstr "Lo sentimos, no aceptamos contraseñas vacías."
+
+#: simple-account-system.php:1006
+msgid "An unknown error occurred. Please try again later."
+msgstr "Ha ocurrido un error interno. Por favor, inténtelo de nuevo más tarde."
+
+#: simple-account-system.php:1034
+msgid "Sign Out"
+msgstr "Cerrar Sesión"
+
+#: templates/login_form.php:19
+msgid "You have signed out. Would you like to sign in again?"
+msgstr "Has cerrado sesión ¿Te gustaría iniciar sesión otra vez?"
+
+#: templates/login_form.php:27
+#, php-format
+msgid ""
+"You have successfully registered to <strong>%s</strong>. We have emailed "
+"your password to the email address you entered."
+msgstr ""
+"Ha registrado correctamente <strong>%s</strong>. Hemos enviado tu contraseña "
+"a la dirección de correo electrónico que ingresaste."
+
+#: templates/login_form.php:36
+msgid "Check your email for a link to reset your password."
+msgstr "Revise su correo electrónico para restablecer su contraseña."
+
+#: templates/login_form.php:42
+msgid "Your password has been changed. You can sign in now."
+msgstr "Su contraseña ha sido cambiada. Usted puede inscribirse ahora."
+
+#: templates/login_form.php:49 templates/login_form.php:65
+#: templates/password_lost_form.php:25
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: templates/login_form.php:57
+msgid "Forgot your password?"
+msgstr "¿Olvidó su contraseña?"
+
+#: templates/login_form.php:69
+msgid "Password"
+msgstr "Contraseña"
+
+#: templates/password_lost_form.php:17
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Introduzca su dirección de correo electrónico y le enviaremos un enlace que "
+"puede utilizar para elegir una nueva contraseña."
+
+#: templates/password_lost_form.php:31 templates/password_reset_form.php:31
+msgid "Reset Password"
+msgstr "Recuperar Contraseña"
+
+#: templates/password_reset_form.php:19
+msgid "New password"
+msgstr "Nueva contraseña"
+
+#: templates/password_reset_form.php:23
+msgid "Repeat new password"
+msgstr "Repetir contraseña nueva"
+
+#: templates/register_form.php:3
+msgid "Create an Account"
+msgstr "Crear una cuenta"
+
+#: templates/register_form.php:17 templates/user_profile_form.php:25
+msgid "* Email"
+msgstr "* Correo electrónico"
+
+#: templates/register_form.php:22 templates/user_profile_form.php:30
+msgid "First name"
+msgstr "Nombre"
+
+#: templates/register_form.php:27 templates/user_profile_form.php:35
+msgid "Last name"
+msgstr "Apellidos"
+
+#: templates/register_form.php:56
+msgid ""
+"Note: Your password will be generated automatically and emailed to the "
+"address you specify above."
+msgstr ""
+"Nota: La contraseña se genera automáticamente y por correo electrónico a la "
+"dirección especificada por encima de."
+
+#: templates/register_form.php:73
+msgid "Register"
+msgstr "Regístrese"
+
+#: templates/user_profile_form.php:65
+msgid "Update"
+msgstr "Actualizar"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Account System"
+msgstr "Simple Account System"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/UlisesFreitas/simple-account-system"
+msgstr "https://github.com/UlisesFreitas/simple-account-system"
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin to replace the default user flow, for login, logout, "
+"account(profile), with extra contact info fields, phone, address, country, "
+"city, zip code."
+msgstr ""
+"Un plugin para reemplazar el flujo por defecto usuario, login, logout, "
+"account(profile), con campos de información adicional de contacto, teléfono, "
+"dirección, país, ciudad, código postal."
+
+#. Author of the plugin/theme
+msgid "Ulises Freitas"
+msgstr "Ulises Freitas"
+
+#. Author URI of the plugin/theme
+msgid "https://disenialia.com/"
+msgstr "https://disenialia.com/"

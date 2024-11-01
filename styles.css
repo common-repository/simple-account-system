@@ -1,0 +1,12 @@
+/**
+ * Plugin Name:       Simple Account System
+ * Plugin URI: https://github.com/UlisesFreitas/simple-account-system
+ * Description:       A plugin to replace the default user flow, for login, logout, account(profile), with extra contact info fields, phone, address, country, city, zip code.
+This is a replacement for bring users a better experience on their accounts settings.
+ * Version:           1.0.0
+ * Author:            Ulises Freitas
+ * Author URI: https://disenialia.com/
+ * License:           GPL-2.0+
+ * Text Domain:       simple-account-system
+ * Thanks to http://code.tutsplus.com/series/build-a-custom-wordpress-user-flow--cms-816 for implementation of most of the functions
+ */
